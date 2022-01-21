@@ -1,7 +1,7 @@
-import React from 'react';
+import articleStyles from '../styles/article.module.css';
 
 const Aricle = () => {
-  return (<div></div>);
+    return (<div></div>);
 };
 
 export default Aricle;

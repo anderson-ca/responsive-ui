@@ -1,7 +1,7 @@
-import React from 'react';
+import ctaStyles from '../styles/cta.module.css';
 
 const CTA = () => {
-  return (<div></div>);
+    return (<div></div>);
 };
 
 export default CTA;
