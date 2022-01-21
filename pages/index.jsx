@@ -1,11 +1,10 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <div className={styles.container}>
-      <h1>hello</h1>
+    <div>
+      <h1>GPT-3</h1>
     </div>
   )
 }
