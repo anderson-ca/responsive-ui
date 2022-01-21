@@ -1,4 +1,4 @@
-import featureStyles from '../styles/feature.module.css';
+import featureStyles from '../styles/components/feature.module.css';
 
 const Feature = () => {
   return (<div></div>);

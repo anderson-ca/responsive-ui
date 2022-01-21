@@ -1,4 +1,4 @@
-import ctaStyles from '../styles/cta.module.css';
+import ctaStyles from '../styles/components/cta.module.css';
 
 const CTA = () => {
     return (<div></div>);

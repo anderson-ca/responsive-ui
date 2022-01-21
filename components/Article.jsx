@@ -1,4 +1,4 @@
-import articleStyles from '../styles/article.module.css';
+import articleStyles from '../styles/components/article.module.css';
 
 const Aricle = () => {
     return (<div></div>);

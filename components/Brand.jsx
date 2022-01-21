@@ -1,4 +1,4 @@
-import brandStyles from '../styles/brand.module.css';
+import brandStyles from '../styles/components/brand.module.css';
 
 const Brand = () => {
     return (<div></div>);

@@ -1,4 +1,4 @@
-import navbarStyles from '../styles/navbar.module.css';
+import navbarStyles from '../styles/components/navbar.module.css';
 
 const Navbar = () => {
   return (<div></div>);
