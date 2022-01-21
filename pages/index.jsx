@@ -1,10 +1,13 @@
-import Head from 'next/head'
-import Image from 'next/image'
+import appStyles from '../styles/app.module.css'
 
-export default function Home() {
+const App = () => {
   return (
-    <div>
-      <h1>GPT-3</h1>
-    </div>
-  )
-}
+        <div className={layoutStyles.App}>
+            <main className={layoutStyles.gradient__bg}>
+                
+            </main>
+        </div>
+    );
+};
+
+export default App;
