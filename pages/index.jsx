@@ -1,10 +1,11 @@
-import appStyles from '../styles/app.module.css'
+import appStyles from '../styles/app.module.css';
+import Navbar from '../components/Navbar';
 
 const App = () => {
   return (
         <div className={appStyles.App}>
             <main className={appStyles.gradient__bg}>
-                <h1>GPT-3</h1>
+                <Navbar />
             </main>
         </div>
     );

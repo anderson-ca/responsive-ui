@@ -1,7 +1,11 @@
 import navbarStyles from '../styles/components/navbar.module.css';
 
 const Navbar = () => {
-  return (<div></div>);
+  return (
+    <div>
+      <h1>navbar</h1>
+    </div>
+  );
 };
 
 export default Navbar;
